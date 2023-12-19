@@ -1,38 +1,38 @@
 const menClothes = [
     {
         id: 0,
-        name: "Classic Oxford Shirt",
-        description: "Timeless and versatile oxford shirt for men",
+        name: "Classic Shirt",
+        description: "Timeless and versatile shirt for men",
         price: 34.99,
-        image: "https://placehold.co/400"
+        image: "https://images.pexels.com/photos/4892778/pexels-photo-4892778.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         id: 1,
-        name: "Slim Fit Chinos",
-        description: "Modern slim fit chinos, perfect for any occasion",
+        name: "Jeans",
+        description: "Modern Jeans, perfect for any occasion",
         price: 39.99,
-        image: "https://placehold.co/400"
+        image: "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         id: 2,
-        name: "Casual Denim Jacket",
-        description: "Stylish and comfortable denim jacket for men",
+        name: "Casual Jacket",
+        description: "Stylish and comfortable jacket for men",
         price: 49.99,
-        image: "https://placehold.co/400"
+        image: "https://images.pexels.com/photos/2245433/pexels-photo-2245433.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         id: 3,
-        name: "Striped Polo Shirt",
-        description: "Sporty striped polo shirt, ideal for a casual look",
+        name: "Polo Shirt",
+        description: "Sporty polo shirt, ideal for a casual look",
         price: 24.99,
-        image: "https://placehold.co/400"
+        image: "https://images.pexels.com/photos/3228934/pexels-photo-3228934.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
         id: 4,
         name: "Leather Belt",
         description: "Classic leather belt with a sturdy buckle",
         price: 19.99,
-        image: "https://placehold.co/400"
+        image: "https://images.pexels.com/photos/8460434/pexels-photo-8460434.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
 ];
 
