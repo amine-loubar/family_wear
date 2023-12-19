@@ -14,8 +14,8 @@ const Cart = () => {
         <SectionTitle title={'Cart'} />
         <div className={cartCss.contentFlex}>
           <div className={cartCss.container}>
-            <CartProduct src={'https://placehold.co/400'} alt={'Product'} name={'Classic Oxford Shirt'} price={29.99} />
-            <CartProduct src={'https://placehold.co/400'} alt={'Product'} name={'Classic Oxford Shirt'} price={34.50} />
+            <CartProduct src={'https://images.pexels.com/photos/8460434/pexels-photo-8460434.jpeg?auto=compress&cs=tinysrgb&w=600'} alt={'Product'} name={' Leather Belt'} price={29.99} />
+            <CartProduct src={'https://images.pexels.com/photos/4892778/pexels-photo-4892778.jpeg?auto=compress&cs=tinysrgb&w=600'} alt={'Product'} name={'Classic Shirt'} price={34.50} />
           </div>
           <div className={cartCss.totalContainer}>
             <h2>Total cost</h2>
