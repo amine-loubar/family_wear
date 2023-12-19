@@ -1,0 +1,14 @@
+.newCollections {
+    margin-top: 5rem;
+    scroll-margin-top: 5rem;
+}
+
+.newCollectionsCard {
+    margin-top: 5rem;
+    padding-inline: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-around;
+}
+

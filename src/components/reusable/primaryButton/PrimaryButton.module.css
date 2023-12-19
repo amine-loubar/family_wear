@@ -1,0 +1,18 @@
+.shopNowBtn {
+    display: block;
+    max-width: fit-content;
+    background-color: var(--green_color);
+    padding: .8rem 2rem;
+    color: var(--primary_color);
+    font-size: .9rem;
+    text-transform: capitalize;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+
+.shopNowBtn:hover {
+    opacity: .9;
+}

@@ -1,0 +1,35 @@
+footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem 2rem;
+    margin-top: 5rem;
+}
+
+.logo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.nav ul,
+.socialIcons ul {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.nav ul li:hover a{
+    color: var(--green_color);
+}
+
+.socialIcons ul li:hover path {
+    fill: var(--green_color);
+}
+
+.copyright {
+    text-transform: capitalize;
+    font-size: .8rem;
+    opacity: .8;
+}

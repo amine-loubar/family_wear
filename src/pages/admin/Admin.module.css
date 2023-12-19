@@ -1,0 +1,23 @@
+.adminCardsContainer {
+    margin-bottom: 5rem;
+    margin-inline: auto;
+    width: fit-content;
+}
+
+.selectContainer {
+    display: flex;
+    justify-content: flex-end;
+    padding-inline: 1rem;
+}
+
+.selectContainer select {
+    font-size: 1rem;
+    padding: .5rem .7rem;
+    background-color: var(--card_background);
+    outline-color: var(--green_color);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

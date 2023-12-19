@@ -1,0 +1,13 @@
+.bestSeller {
+    margin-top: 2rem;
+}
+
+.bestSellerCards {
+    margin-top: 5rem;
+    padding-inline: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: space-around;
+    justify-items: center;
+}

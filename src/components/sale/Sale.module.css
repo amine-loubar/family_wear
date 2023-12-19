@@ -1,0 +1,27 @@
+.sale {
+    margin-inline: auto;
+    max-width: 50rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1.5rem 3rem;
+    background: linear-gradient(#34344D 25%, #1E1E2E 100%);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.sale h2 {
+    font-weight: 700;
+    font-size: 3rem;
+    text-transform: uppercase;
+    line-height: 1;
+}
+
+.sale p {
+    text-transform: capitalize;
+    opacity: .8;
+}

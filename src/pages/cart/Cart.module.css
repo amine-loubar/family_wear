@@ -1,0 +1,45 @@
+.totalContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    max-width: 25rem;
+    margin-inline: auto;
+}
+
+.totalContainer h2 {
+    font-weight: 700;
+}
+
+
+.totalCard {
+    display: flex;
+    flex-direction: column;
+}
+
+.totalCard>div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem;
+    opacity: .7;
+}
+
+.totalCard .total {
+    opacity: 1;
+}
+
+hr {
+    opacity: .7;
+}
+
+@media screen and (min-width: 768px) {
+    .contentFlex {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .totalContainer {
+            margin-top: 3rem;
+        }
+}

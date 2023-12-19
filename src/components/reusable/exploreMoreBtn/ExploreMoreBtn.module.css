@@ -1,0 +1,17 @@
+.link {
+    display: block;
+    margin-inline: auto;
+    width: fit-content;
+    padding: .3rem 1rem;
+    border: 1px solid var(--green_color);
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+
+.link:hover {
+    background-color: var(--green_color);
+    color: var(--primary_color);
+}
