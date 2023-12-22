@@ -6,7 +6,8 @@ header {
     padding: 1rem;
     position: fixed;
     top: 0;
-    background-color: var(--primary_color); 
+    background-color: var(--primary_color);
+    z-index: 50;
 }
 .profile {
     overflow: hidden;
