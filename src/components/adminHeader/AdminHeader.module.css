@@ -7,7 +7,7 @@ header {
     position: fixed;
     top: 0;
     background-color: var(--primary_color);
-    z-index: 50;
+    z-index: 500;
 }
 .profile {
     overflow: hidden;
